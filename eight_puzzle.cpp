@@ -14,7 +14,7 @@ class Puzzle
 
 int main()
 {
-    // static Goal Matrix
+    // static Goal Matrix define
     int goal_matrix[3][3] = {
         {1, 2, 3},
         {4, 5, 6},
